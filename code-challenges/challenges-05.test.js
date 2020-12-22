@@ -55,7 +55,7 @@ Write a function named howMuchPencil that takes in a string, as written on the s
 As you sharpen the pencil, the string will become shorter and shorter, starting by removing the first letter.
 
 Your function should use slice within a loop and return an array of each successive string result from losing letters to the sharpener, until nothing is left.
-
+     
 For example, if the input is 'Welcome', the output will be:
 ['Welcome', 'elcome', 'lcome', 'come', 'ome', 'me', 'e', '']. 
 ------------------------------------------------------------------------------------------------ */
