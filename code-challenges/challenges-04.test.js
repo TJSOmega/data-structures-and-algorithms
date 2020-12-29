@@ -67,16 +67,16 @@ Write a function named citiesAtoJ that takes in an array of city names and uses 
 ------------------------------------------------------------------------------------------------ */
 
 const citiesAtoJ = (arr) => {
-  let regex = /[A-J]
-  let array = [];
+//   let regex = /[A-J]
+//   let array = [];
 
-  arr.forEach(str => {
-    let string = str.match(regex);
-    if (string !== null) {
-      array.push(string[0]);
-    }
-  });
-  return array;
+//   arr.forEach(str => {
+//     let string = str.match(regex);
+//     if (string !== null) {
+//       array.push(string[0]);
+//     }
+//   });
+//   return array;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -255,4 +255,5 @@ xdescribe('Testing challenge 8', () => {
 
 function createSnippetWithJQuery(html) {
   return cheerio.load(html);
-};
+}
+
