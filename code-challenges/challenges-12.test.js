@@ -9,13 +9,7 @@ using the 'reduce' method.
 E.g. [4,2,7,5,9,2] -> 9
 ------------------------------------------------------------------------------------------------ */
 const maxInArray = (arr) => {
-  const maxValue = arr.reduce((acc, value) => {
-    if (acc < value || acc === 0) {
-      acc = value;
-    }
-    return acc;
-  }, 0);
-  return maxValue;
+  // Solution code here...
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -41,19 +35,9 @@ const alkiBeach = [33, 31, 147, 130, 27, 93, 38, 126, 141, 63, 46, 17];
 const cookieStores = [firstPike, seaTac, seattleCenter, capHill, alkiBeach];
 
 const grandTotal = (stores) => {
-  let grandTotalCookies = [];
-  for (let i = 0; i < hoursOpen.length; i++) {
-    let hourlyTotal = 0;
+  // Solution code here...
 
-    for (let j = 0; j < stores.length; j++) {
-      hourlyTotal += stores[j][i];
-    }
-    grandTotalCookies.push(hourlyTotal);
-
-  }
-  return (grandTotalCookies);
 };
-
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 3
@@ -66,15 +50,7 @@ Write a function named salesData that uses forEach to iterate over the hourlySal
 ------------------------------------------------------------------------------------------------ */
 
 const salesData = (hours, data) => {
-  let arrObj = [];
-  let obj = {};
-  hours.forEach( (val, i) => {
-    obj.sales = `${data[i]} cookies`;
-    obj.time = val;
-    arrObj.push(obj);
-    obj = {};
-  });
-  return arrObj;
+  // Solution code here...
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -99,15 +75,7 @@ const errands = [
 ];
 
 const howManyTreats = (arr) => {
-  let items = 0;
-  arr.forEach( val => {
-    if( val.store === 'Pet store') {
-      val.items.forEach( valinitems => {
-        valinitems.name === 'Treats' ? items = valinitems.quantity : null;
-      });
-    }
-  });
-  return items;
+  // Solution code here...
 };
 
 /* ------------------------------------------------------------------------------------------------
