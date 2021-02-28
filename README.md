@@ -1,5 +1,9 @@
 # Data Structures and Algorithms
 
+### Table of Contents
+**1.**[Code Challenge 02Array Shifts](./javascript/code-challenges/arrayShift)
+
+
 ## Create a copy of this repository
 
 If you have not already created your data-structures-and-algorithms repository, Please follow these steps:
