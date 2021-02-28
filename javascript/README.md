@@ -2,6 +2,12 @@
 
 ## Language: `JavaScript`
 
+### Table of Contents
+
+**1.**[Code Challenge 02 Array Shifts](./code-challenges/arrayShift)
+
+**2.** [Code Challenge 03 Binary Search Array](./code-challenges/arrayBinarySearch)
+
 ### Folder and Challenge Setup
 
 Each type of code challenge has slightly different instructions. Please refer to the notes and examples below for instructions for each DS&A assignment type.
