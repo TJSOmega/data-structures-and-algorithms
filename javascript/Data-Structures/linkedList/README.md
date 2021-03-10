@@ -30,3 +30,11 @@ Define a method called toString (or __str__ in Python) which takes in no argumen
 - Create required method for checking if the Linked List includes an item
 
 - Create method for printing the entire list to a string.
+
+*ADDED 3/9/21*
+
+**Append**: Created and Append method that adds an item to the end of a linked list
+
+**Insert Before:** Created a method that Inserts an item before a given value if it is apart of the Linked List.
+
+**Insert After:** Created a method that Inserts an item after a given value if it is apart of the Linked List.
