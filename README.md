@@ -1,7 +1,13 @@
 # Data Structures and Algorithms
 
 ### Table of Contents
-**1.**[Code Challenge 02Array Shifts](./javascript/code-challenges/arrayShift)
+**2.** [Code Challenge 02 Array Shifts](./javascript/code-challenges/arrayShift)
+**3.** [Code Challenge 03 Binary Search](./javascript/code-challenges/arrayBinarySearch)
+**4.** Code Challenge 04 Whiteboard Interview
+**5.** [Linked List Implementation](./javascript/Data-Structures/linkedList)
+**6.** 
+**7.** [LL Kth From End](./javascript/Data-Structures/linkedList)
+
 
 
 ## Create a copy of this repository
