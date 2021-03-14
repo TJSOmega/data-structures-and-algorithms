@@ -49,4 +49,4 @@ Define a method called toString (or __str__ in Python) which takes in no argumen
 
 Whiteboards
 
-[WhiteBoard 3/13/21](./assets/whiteboardCodeChallenge6.jpg)
+[WhiteBoard 3/13/21](./assets/whiteboardCodeChallenge7.jpg)
