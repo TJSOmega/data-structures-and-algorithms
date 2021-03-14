@@ -38,3 +38,15 @@ Define a method called toString (or __str__ in Python) which takes in no argumen
 **Insert Before:** Created a method that Inserts an item before a given value if it is apart of the Linked List.
 
 **Insert After:** Created a method that Inserts an item after a given value if it is apart of the Linked List.
+
+*Added 3/13/21*
+
+**k Number from the End:** Created a method that takes in a value, and through use of a counter and a pointer selects the item at the given value starting from the back of the Linked List.
+
+
+
+
+
+Whiteboards
+
+[WhiteBoard 3/13/21](./assets/whiteboardCodeChallenge6.jpg)

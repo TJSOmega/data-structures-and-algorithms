@@ -107,6 +107,51 @@ class SLL {
     }
     return this;
   }
+
+  kthFromEnd(value) {
+    console.log(typeof value);
+
+
+    if (typeof value !== 'number') {
+      return 'Please enter a number';
+    }
+
+
+    let current = this.head;
+    let length = 0;
+
+    if (!current) {
+      return 'Exception';
+    }
+    else {
+      while (current) {
+        length++;
+        current = current.next;
+        console.log(length);
+      }
+    }
+
+    if (length <= value || value < 0) {
+      return 'Exception';
+    }
+
+
+
+    current = this.head;
+    let pointer = length - value;
+    let counter = 0;
+    console.log(pointer);
+
+    while (current) {
+      counter++;
+      if (pointer === counter) {
+        return current;
+      }
+      current = current.next;
+
+    }
+
+  }
 }
 
 
