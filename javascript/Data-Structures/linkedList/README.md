@@ -47,6 +47,13 @@ Define a method called toString (or __str__ in Python) which takes in no argumen
 
 Note: Pair Programmed Tests with Jenner
 
+
+*Added 3/15/21*
+
+**Zipping 2 Linked Lists:** Created a function that accepts 2 LinkLists and applies them to one singular linkedList.
+
 Whiteboards
 
 [WhiteBoard 3/13/21](./assets/whiteboardCodeChallenge7.jpg)
+
+[WhiteBoard 3/15/21](./assets/Zip-List-WB.jpg)
