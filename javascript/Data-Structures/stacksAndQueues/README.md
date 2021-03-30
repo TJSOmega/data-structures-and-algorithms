@@ -9,3 +9,8 @@
 
 ## API
 <!--Publicly available methods used in this project were push, pop, and shift.-->
+
+
+## Psuedo Queue
+**added 3/29/2021**
+<!--Added psuedoQueue() with an Enqueue and Dequeue method that uses 2 stacks that invert on each method in order to out put the right item.-->

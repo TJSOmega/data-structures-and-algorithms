@@ -45,7 +45,7 @@ describe('NEW METHODS TEST', () => {
     list.append(first);
     list.append(second);
     list.append(fourth);
-    list.insertBefore(4,3);
+    list.insertBefore(4, 3);
     console.log(list);
     expect(list).toEqual();
   });
@@ -59,7 +59,7 @@ describe('NEW METHODS TEST', () => {
     list.append(first);
     list.append(third);
     list.append(fourth);
-    list.insertAfter(1,2);
+    list.insertAfter(1, 2);
     console.log(list);
     expect(list).toEqual();
   });
@@ -73,7 +73,7 @@ describe('NEW METHODS TEST', () => {
     expect(list).toEqual();
   });
 
-  
+
 
   describe('LinkedList KTHFROMEND Tests', () => {
     it('should return false if k is greater than the length of the linekd list', () => {
@@ -102,5 +102,7 @@ describe('NEW METHODS TEST', () => {
       expect(newLL.kthFromEnd(2)).toBe(300);
     });
 
+  });
 });
+
 

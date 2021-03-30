@@ -50,6 +50,7 @@ class Queue {
     }
     return empty;
   }
+
 }
 
 module.exports = Queue;
