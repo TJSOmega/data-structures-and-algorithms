@@ -14,3 +14,15 @@
 ## Psuedo Queue
 **added 3/29/2021**
 <!--Added psuedoQueue() with an Enqueue and Dequeue method that uses 2 stacks that invert on each method in order to out put the right item.-->
+
+![Whiteboard](./assets/image.png)
+
+
+
+
+## Fifo Animal Shelter
+**Added 4/5/21**
+
+<!--Added the AnimalShelter class which allows a user to go in and add dogs and cats to a new Queue method and enqueue or dequeue based off of whether a value is a dog or a cat. This demonstrates how you can use several Queues inside of a higher Queue method in order to separate data.-->
+
+![Whiteboard](./assets/Whiteboard-Fifo-Animal-Shelter.png)
