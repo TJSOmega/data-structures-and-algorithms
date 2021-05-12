@@ -19,3 +19,4 @@ Created a method to search through a binary tree and return the largest value in
 ![Breadth First White Board](./assets/BreadthFirst.jpg)
 
 ## FizzBuzz Tree
+Pair Programmed with Jenner Dulce and Mark Duenas
