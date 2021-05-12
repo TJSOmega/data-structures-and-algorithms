@@ -14,6 +14,8 @@ Created a method to search through a binary tree and return the largest value in
 ![Largest Number White Board](./assets/LargestNumberBT.jpg)
 
 ## BreadthFirst Binary search
- Created a breadth first method that searches through a tree and adds items top to bottom left to right across the entire tree. 
+ Created a breadth first method that searches through a tree and adds items top to bottom left to right across the entire tree.
 
 ![Breadth First White Board](./assets/BreadthFirst.jpg)
+
+## FizzBuzz Tree
