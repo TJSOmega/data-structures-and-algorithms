@@ -2,7 +2,6 @@
 
 const { BST, BT } = require('../models/tree.js');
 const Node = require('../models/node.js');
-const tree = require('../models/tree.js');
 
 describe('Tree', () => {
 
