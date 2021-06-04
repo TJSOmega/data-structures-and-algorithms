@@ -15,3 +15,6 @@ Write a function that compares the values in 2 given trees and prints out an arr
 - Push values found to be identical to those of the object into the Array.
 
 ![WhiteBoard](./assets/TreeIntersection.jpg)
+
+Worked alongside Mark, Jenner, and Arthur for this challenge.
+

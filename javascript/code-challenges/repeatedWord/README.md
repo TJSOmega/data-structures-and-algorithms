@@ -18,3 +18,7 @@ Write a function that takes in a string and then prints out the first word in th
 
 
 ![WhiteBoard](./assets/RepeatedWordsWhiteBoard.jpg)
+
+
+Worked alongside Mark, Jenner, and Arthur for this challenge.
+
